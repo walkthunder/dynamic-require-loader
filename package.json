@@ -1,6 +1,6 @@
 {
   "name": "dynamic-require-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make webpack can dynamic require.",
   "main": "index.js",
   "scripts": {
